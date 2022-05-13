@@ -1,0 +1,17 @@
+html, body {
+  margin: 0;
+  background-color: lightskyblue;
+}
+
+img {
+  width: 300px;
+}
+
+.centrar {
+  display: flex;
+  justify-content: center;
+}
+
+h1 {
+  text-align: center;
+}
